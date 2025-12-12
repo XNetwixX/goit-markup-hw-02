@@ -18,8 +18,6 @@ img {
     display: block;
 }
 
-/* ===== HEADER ===== */
-
 .logo {
     font-family: "Raleway", sans-serif;
     font-size: 18px;
@@ -63,11 +61,8 @@ img {
     color: #404bbf;
 }
 
-/* ===== HERO ===== */
-
 .hero {
     background-color: #2e2f42;
-    text-align: center;
 }
 
 .hero-title {
@@ -76,6 +71,7 @@ img {
     line-height: 1.07;
     letter-spacing: 0.02em;
     color: #ffffff;
+    text-align: center;
 }
 
 .hero-button {
@@ -92,8 +88,6 @@ img {
 .hero-button:focus {
     background-color: #404bbf;
 }
-
-/* ===== FEATURES ===== */
 
 section h2 {
     font-size: 36px;
@@ -118,8 +112,6 @@ section p {
     letter-spacing: 0.02em;
 }
 
-/* ===== TEAM ===== */
-
 .team {
     background-color: #f4f4fd;
 }
@@ -136,8 +128,6 @@ section p {
     text-align: center;
 }
 
-/* ===== PORTFOLIO ===== */
-
 #portfolio h3 {
     font-size: 20px;
     font-weight: 500;
@@ -145,8 +135,6 @@ section p {
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
-
-/* ===== FOOTER ===== */
 
 .footer {
     background-color: #2e2f42;
